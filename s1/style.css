@@ -1,0 +1,34 @@
+/*scss*/
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 16px;
+  font-family: Verdana, Tahoma, sans-serif;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+nav {
+  color: red;
+}
+
+nav li {
+  color: green;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.linkhover {
+  text-decoration: underline;
+}
